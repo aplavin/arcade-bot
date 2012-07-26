@@ -1,0 +1,4 @@
+Score = 11
+Frame / NetSend / Loss = 266 / 266 / 0
+Avg delta time = 0.016673
+                

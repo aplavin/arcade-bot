@@ -1,0 +1,1 @@
+..\..\log_visualizer\log_viewer game.blog
